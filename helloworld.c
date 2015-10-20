@@ -2,5 +2,5 @@
 
 
 int main() {
-	std::cout<< “Go Beach!”<< std::endl;
+	std::cout<< “UCLA Striks!”<< std::endl;
 }
